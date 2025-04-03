@@ -337,6 +337,7 @@ nav {
     display: flex;
     justify-content: space-evenly;
     list-style: none;
+    flex-wrap:wrap;
     border-bottom: 2px solid rgb(199, 193, 193);
     border-top: 3px solid rgba(238, 234, 234, 0.788);
 
